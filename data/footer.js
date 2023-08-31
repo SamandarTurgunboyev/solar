@@ -9,11 +9,11 @@ export const footerData1 = [
 export const footerData2 = [
     {
         id: 1,
-        title: 'Loyihalar',
-        text_1: 'Toshkent',
-        text_2: "Soliq qo'mitasi",
-        text_3: 'Davlat soliq boshqarmasi',
-        text_4: "Ani mahsuloti"
+        title: 'footer.projects.title',
+        text_1: 'footer.projects.one',
+        text_2: "footer.projects.two",
+        text_3: 'footer.projects.three',
+        text_4: "footer.projects.four"
     }
 ]
 

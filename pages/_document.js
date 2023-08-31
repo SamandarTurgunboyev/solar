@@ -1,5 +1,4 @@
-import { Header } from '@/components'
-import Footer from '@/components/footer/Footer'
+import { Footer } from '@/components'
 import { Html, Head, Main, NextScript } from 'next/document'
 
 export default function Document() {
@@ -9,7 +8,6 @@ export default function Document() {
         <title>Lorem</title>
       </Head>
       <body>
-        <Header />
         <Main />
         <Footer />
         <NextScript />

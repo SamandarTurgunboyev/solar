@@ -1,8 +1,12 @@
 import { serverSideTranslations } from 'next-i18next/serverSideTranslations'
+import { useTranslation } from 'next-i18next'
 
 const Home = () => {
+  const { t } = useTranslation('common')
   return (
-    <main>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid eligendi fugiat, repudiandae veritatis harum numquam illo corrupti doloribus repellat. Perspiciatis, tempora earum consectetur eaque obcaecati soluta molestias quod impedit. Aut.</main>
+    <main>
+      <p>{t("hello")}</p>
+    </main>
   )
 }
 
@@ -11,7 +15,6 @@ export async function getStaticProps({ locale }) {
     props: {
       ...(await serverSideTranslations(locale, [
         'common',
-        'footer',
       ])),
       // Will be passed to the page component as props
     },

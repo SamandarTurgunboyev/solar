@@ -10,7 +10,7 @@ import { useTranslation } from "next-i18next";
 const Footer = () => {
   const { t } = useTranslation("common");
   return (
-    <div className="footer-bg">
+    <footer className="footer-bg">
       <div className="w-full grid lg:grid-cols-4 md:grid-cols-2 grid-cols-1 footer-color">
         <div className="my-[50px] mx-[30px]">
           <ul className="flex flex-col gap-[20px]">
@@ -126,7 +126,7 @@ const Footer = () => {
           </ul>
         </div>
       </div>
-    </div>
+    </footer>
   );
 };
 

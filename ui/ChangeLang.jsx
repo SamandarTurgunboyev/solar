@@ -48,6 +48,7 @@ const ChangeLang = () => {
               return (
                 <li
                   onClick={() => setSelected(data.lng)}
+                  key={data.id}
                   className="px-4 py-2 flex flex-row items-center gap-3 cursor-pointer hover:text-yellow text-blue transition"
                 >
                   <Image

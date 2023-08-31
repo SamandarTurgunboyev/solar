@@ -5,7 +5,7 @@ import Link from "next/link";
 
 const Header = () => {
   return (
-    <div className="w-full px-4 py-3 flex flex-row justify-between items-center bg-black text-white">
+    <header className="w-full px-4 py-3 flex flex-row justify-between items-center bg-black text-white">
       <ul className="sm:flex hidden flex-row items-center gap-3">
         {header.map((data) => {
           return (
@@ -37,7 +37,7 @@ const Header = () => {
         })}
       </ul>
       <ChangeLang />
-    </div>
+    </header>
   );
 };
 

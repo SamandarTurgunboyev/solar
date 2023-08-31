@@ -8,7 +8,7 @@ const ModalButton = ({ open }) => {
   return (
     <>
       {open ? (
-        <ul className="md:hidden block absolute top-[120px] right-0 w-fit">
+        <ul className="md:hidden z-50 block absolute top-[120px] right-0 w-fit">
           <motion.div
             initial={{ y: -50 }}
             animate={{ y: 0 }}

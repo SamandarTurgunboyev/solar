@@ -16,7 +16,7 @@ const Navbar = () => {
   const [open, setOpen] = useState(false);
   const [modal, setModal] = useState(false);
   return (
-    <div className="custom-container text-white flex flex-row items-center justify-between bg-blue py-6 relative">
+    <nav className="custom-container text-white flex flex-row items-center justify-between bg-blue py-6 relative">
       <Link href={"/"}>
         <Image src={"/images/logo.png"} width={100} height={100} alt="logo" />
       </Link>
@@ -59,7 +59,7 @@ const Navbar = () => {
         </div>
       </div>
       <Mobile open={open} />
-    </div>
+    </nav>
   );
 };
 

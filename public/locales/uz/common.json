@@ -24,15 +24,15 @@
       "info": "Yangiliklardan xabardor bo'lish uchun bizning axborot byulletenimiz va voqealarimizga hozir obuna bo'ling",
       "input": "Elektron pochta manzil",
       "button": "Obuna bo'ling"
-    },
-    "navbar": {
-      "busines": "Biznes uchun",
-      "special_persons": "Xususiy shaxslarga",
-      "product": "Maxsulot",
-      "projects": "Loyihalar",
-      "blog": "Blog",
-      "company": "Kompaniya haqida ma'lumot",
-      "contact": "Kontaktlar"
     }
+  },
+  "navbar": {
+    "busines": "Biznes uchun",
+    "special_persons": "Xususiy shaxslarga",
+    "product": "Maxsulot",
+    "projects": "Loyihalar",
+    "blog": "Blog",
+    "company": "Kompaniya haqida ma'lumot",
+    "contact": "Kontaktlar"
   }
 }

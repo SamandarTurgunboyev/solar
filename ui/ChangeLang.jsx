@@ -28,7 +28,7 @@ const ChangeLang = () => {
         onClick={() => setOpen(!open)}
       >
         <MdLanguage className="text-xl z-50" />
-        <p className="uppercase text-xl">{selected}</p>
+        <p className="uppercase">{selected}</p>
         <MdKeyboardArrowDown className="text-xl" />
       </div>
       {open ? (

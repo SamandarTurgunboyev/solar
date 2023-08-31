@@ -53,7 +53,7 @@
 
 @layer base {
   body {
-    @apply m-0 p-0 outline-none list-none box-border font-barlowRegular;
+    @apply m-0 p-0 overflow-x-hidden outline-none list-none box-border font-barlowRegular;
   }
 }
 
@@ -68,6 +68,8 @@
 }
 
 .footer-bg {
+  background-repeat: no-repeat;
+  background-size: cover;
   background-image: url('../public/images/footer-bg.jpg');
 }
 
@@ -107,6 +109,10 @@
 
 .button-hover {
   @apply py-3 px-6 ease-in-out overflow-hidden hover:bg-black transition-all hover:before:translate-y-0 z-10 transition duration-300 relative before:transition bg-yellow before:content-[""] before:w-full before:h-full before:bg-black before:block before:absolute before:top-0 before:left-0 before:z-[-1] before:-translate-y-full;
+}
+
+.triangle-hover {
+  @apply transition-all duration-300 before:pointer-events-none before:content-[""] before:absolute before:top-[6px] before:left-[-21px] before:border-t-[10px] before:border-t-yellow before:border-solid before:border-l-[10px] before:border-l-transparent before:border-r-[10px] before:border-r-transparent before:border-b-0 before:rotate-45 hover:before:opacity-100 before:opacity-0
 }
 
 .box-shadow {

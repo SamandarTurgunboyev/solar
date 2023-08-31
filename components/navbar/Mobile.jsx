@@ -6,7 +6,7 @@ import { useTranslation } from 'next-i18next'
 const Mobile = ({ open }) => {
   const { t } = useTranslation('common')
   return (
-    <div className='xl:hidden block absolute w-full top-[120px] left-0 mx-auto overflow-hidden'>
+    <div className='xl:hidden z-50 block absolute w-full top-[120px] left-0 mx-auto overflow-hidden'>
       <ul className={`w-[90%] overflow-hidden max-w-[800px] mx-auto bg-white duration-300 box-shadow ${open ? "translate-y-0 opacity-1" : "-translate-y-full opacity-0"}`}>
         {navbarData.map((data) => {
           return (

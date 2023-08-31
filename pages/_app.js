@@ -1,4 +1,4 @@
-import { Header } from '@/components'
+import { Footer, Header } from '@/components'
 import '@/styles/globals.css'
 import { appWithTranslation } from 'next-i18next'
 
@@ -7,6 +7,7 @@ const App = ({ Component, pageProps }) => {
         <div>
             <Header />
             <Component {...pageProps} />
+            <Footer />
         </div>
     )
 }

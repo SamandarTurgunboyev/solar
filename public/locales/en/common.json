@@ -1,3 +1,29 @@
 {
-  "hello": "Hello"
+    "hello": "Hello",
+    "footer": {
+        "project": {
+            "title": "Projects",
+            "city": "Toshkent",
+            "committee": "Tax Committee",
+            "department": "State Tax Administration",
+            "product": "Ani product"
+        },
+        "links": {
+            "title": "Quick links",
+            "info": "Company information",
+            "blog": "Blog",
+            "product": "Product",
+            "private": "To private individuals",
+            "business": "For business",
+            "policy": "Maxfiylik siyosati",
+            "conditions": "Privacy Policy",
+            "contact": "Contacts"
+        },
+        "information": {
+            "title": "Newsletter",
+            "info": "Subscribe now to our newsletter and events to keep up to date",
+            "input": "Email address",
+            "button": "Subscribe"
+        }
+    }
 }

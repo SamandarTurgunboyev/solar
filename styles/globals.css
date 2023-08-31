@@ -66,3 +66,41 @@
     @apply px-2;
   }
 }
+
+.footer-bg {
+  background-image: url('../public/images/footer-bg.jpg');
+}
+
+.footer-color {
+  background-color: rgba(0, 0, 0, 0.9);
+  color: white;
+  transition: all ease .5s;
+}
+
+.footer_hov {
+  position: relative;
+  transition: all ease .5s
+}
+
+.footer_hov::before {
+  content: "";
+  position: absolute;
+  top: 1px;
+  left: 0;
+  width: 15px;
+  height: 20px;
+  background-color: #ffcd1e;
+  clip-path: polygon(25% 0%, 100% 0%, 75% 100%, 0% 100%);
+  transition: all ease .5s;
+  opacity: 0;
+}
+
+.footer_hov:hover {
+  padding-left: 20px;
+  color: #ffcd1e;
+}
+
+.footer_hov:hover::before {
+  content: "";
+  opacity: 1;
+}

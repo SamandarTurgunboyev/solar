@@ -1,3 +1,29 @@
 {
-    "hello": "Salom"
+    "hello": "Salom",
+    "footer": {
+        "project": {
+            "title": "Loyihalar",
+            "city": "Toshkent",
+            "committee": "Soliq qo'mitasi",
+            "department": "Davlat soliq boshqarmasi",
+            "product": "Ani  mahsuloti"
+        },
+        "links": {
+            "title": "Tez havolalar",
+            "info": "Кompaniya haqida malumot",
+            "blog": "Blog",
+            "product": "Maxsulot",
+            "private": "Xususiy shahslarga",
+            "business": "Biznes uchun",
+            "policy": "Maxfiylik siyosati",
+            "conditions": "Foydalanish shartlari",
+            "contact": "Kontaktlar"
+        },
+        "information": {
+            "title": "Axborot byulleteni",
+            "info": "Yangiliklardan xabardor bo'lish uchun bizning axborot byulletenimiz va voqealarimizga hozir obuna bo'ling",
+            "input": "Elektron pochta manzil",
+            "button": "Obuna bo'ling"
+        }
+    }
 }

@@ -12,7 +12,7 @@ const Footer = () => {
     const { t } = useTranslation('common')
     return (
         <div className='footer-bg'>
-            <div className='w-full border border-indigo-600 grid lg:grid-cols-4 md:grid-cols-2 grid-cols-1 footer-color'>
+            <div className='w-full grid lg:grid-cols-4 md:grid-cols-2 grid-cols-1 footer-color'>
                 <div className='my-[50px] mx-[30px]'>
                     <ul className='flex flex-col gap-[20px]'>
                         <li>
@@ -54,8 +54,8 @@ const Footer = () => {
                     <ul className='flex flex-col gap-[20px]'>
                         <li className='font-bold text-2xl'>{t("footer.information.title")}</li>
                         <li>{t("footer.information.info")}</li>
-                        <li><input type="text" className='w-full h-[55px] p-[15px] outline-0' placeholder={t('footer.information.input')} /></li>
-                        <li><button className='w-full bg-amber-400 text-center flex justify-center items-center gap-[15px] py-[5px] px-[5px]'>{t("footer.information.button")}<IoIosArrowRoundForward className='text-center text-2xl my-[10px]' /></button></li>
+                        <li><input type="text" className='w-full h-[55px] p-[15px] outline-0 text-blue font-bold' placeholder={t('footer.information.input')} /></li>
+                        <li><button className='button-hover w-full bg-yellow text-center flex justify-center items-center gap-[15px] py-[5px] px-[5px]'>{t("footer.information.button")}<IoIosArrowRoundForward className='text-center text-2xl my-[10px]' /></button></li>
                     </ul>
                 </div>
             </div>

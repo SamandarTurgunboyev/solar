@@ -2,34 +2,10 @@ import hero from "@/data/hero";
 import React from "react";
 import { useTranslation } from "next-i18next";
 import Slider from "react-slick";
-import { BsArrowRightShort } from "react-icons/bs";
-import { BsArrowLeftShort } from "react-icons/bs";
 import { IoIosArrowRoundForward } from "react-icons/io";
 import Image from "next/image";
+import { SampleNextArrow, SamplePrevArrow } from "@/ui/CustomArrows";
 
-function SampleNextArrow(props) {
-  const { style, onClick } = props;
-  return (
-    <button
-      className="absolute z-[100] bottom-[140px] md:right-[130px] right-[calc(50%-65px)] w-[40px] h-[40px] bg-blue md:flex hidden items-center justify-center"
-      onClick={onClick}
-    >
-      <BsArrowRightShort className="text-white text-2xl" />
-    </button>
-  );
-}
-
-function SamplePrevArrow(props) {
-  const { style, onClick } = props;
-  return (
-    <button
-      className="absolute z-[100] bottom-[140px] md:right-[190px] right-[calc(50%+25px)] w-[40px] h-[40px] bg-blue md:flex hidden items-center justify-center"
-      onClick={onClick}
-    >
-      <BsArrowLeftShort className="text-white text-2xl" />
-    </button>
-  );
-}
 
 const Hero = () => {
   const { t } = useTranslation();
@@ -38,7 +14,7 @@ const Hero = () => {
     infinite: true,
     slidesToShow: 1,
     slidesToScroll: 1,
-    autoplay: false,
+    autoplay: true,
     speed: 900,
     autoplaySpeed: 4000,
     cssEase: "linear",

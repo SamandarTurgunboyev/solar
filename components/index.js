@@ -5,3 +5,5 @@ export { default as About } from "./About"
 
 export { default as Offers } from "./Offers"
 export { default as Statistics } from "./Statistics"
+export { default as Warranty } from "./Warranty"
+export { default as Hero } from "./Hero"

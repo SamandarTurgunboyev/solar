@@ -2,37 +2,32 @@ const hero = [
     {
         id: 1,
         title: "hero.page_1.title",
-        link_1: 'hero.link_1',
-        linkl_2: "hero.link_2",
-        icon: '../images/hero1.jpg'
+        photo: "/images/hero1.jpg",
+        link: "/"
     },
     {
         id: 2,
         title: "hero.page_2.title",
-        link_1: 'hero.link_1',
-        linkl_2: "hero.link_2",
-        icon: '.../images/hero2.jpg'
+        photo: "/images/hero2.jpg",
+        link: "/"
     },
     {
         id: 3,
         title: "hero.page_3.title",
-        link_1: 'hero.link_1',
-        linkl_2: "hero.link_2",
-        icon: '.../images/hero3.jpg'
+        photo: "/images/hero3.jpg",
+        link: "/"
     },
     {
         id: 4,
         title: "hero.page_4.title",
-        link_1: 'hero.link_1',
-        linkl_2: "hero.link_2",
-        icon: '.../images/hero4.jpg'
+        photo: "/images/hero4.jpg",
+        link: "/"
     },
     {
         id: 5,
         title: "hero.page_5.title",
-        link_1: 'hero.link_1',
-        linkl_2: "hero.link_2",
-        icon: '.../images/hero5.jpg'
+        photo: "/images/hero5.jpg",
+        link: "/"
     },
 ]
 

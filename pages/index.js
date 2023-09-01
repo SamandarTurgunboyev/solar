@@ -7,9 +7,9 @@ import "slick-carousel/slick/slick-theme.css";
 const Home = () => {
   return (
     <div>
+      <Hero />
       <Offers />
       <Statistics />
-      <Hero />
     </div>
 
   )

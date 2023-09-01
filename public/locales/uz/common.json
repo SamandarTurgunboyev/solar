@@ -99,5 +99,9 @@
     "desc": "SOLARA - quyosh yechimlari uzoq vaqt davomida sifat va samaradorlik kafolati hisoblanadi. Biz quyosh panellari uchun 25 yil, quyosh invertorlari uchun 10 yil, batareyalar uchun 10 yil, quyosh suv isitgichlari uchun 5 yil kafolat beramiz.",
     "warranty": "Yil Kafolat",
     "btn": "Ko'proq"
+  },
+  "production": {
+    "subTitle": "Quyoshli kelajagingiz",
+    "title": "Bizning Ishlab Chiqarish"
   }
 }

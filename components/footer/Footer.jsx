@@ -19,17 +19,17 @@ const Footer = () => {
             </li>
             <li className="flex gap-[15px]">
               {" "}
-              <HiOutlineLocationMarker className="text-xl" /> Ташкент,
+              <HiOutlineLocationMarker className="text-yellow text-xl" /> Ташкент,
               Мирабадский район, Фаргона Йули 222/12
             </li>
             <li className="flex gap-[15px]">
               {" "}
-              <BsTelephone className="text-xl" />
+              <BsTelephone className="text-yellow text-xl" />
               +998 955020007
             </li>
             <li className="flex gap-[15px]">
               {" "}
-              <CgMail className="text-2xl" />
+              <CgMail className="text-yellow text-2xl" />
               info@solara.uz
             </li>
           </ul>

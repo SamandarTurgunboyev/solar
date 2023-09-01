@@ -134,3 +134,7 @@
 .site_ab {
   @apply before:content-[""] before:absolute before:top-[5px] before:right-[-10px] before:bg-white before:w-[1px] before:h-[15px] before:rotate-[15deg]
 }
+
+.production-card:hover img{
+  @apply scale-[1.1]
+}

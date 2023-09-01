@@ -9,7 +9,7 @@ const Mobile = ({ open }) => {
   return (
     <>
       {open ? (
-        <div className="xl:hidden block absolute w-full top-[120px] left-0 mx-auto overflow-hidden">
+        <div className="z-[200] xl:hidden block absolute w-full top-[120px] left-0 mx-auto overflow-hidden">
           <motion.div
             initial={{ y: -50 }}
             animate={{ y: 0 }}

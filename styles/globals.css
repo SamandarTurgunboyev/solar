@@ -122,3 +122,7 @@
 .input-class {
   @apply py-[10px] px-[20px] border outline-none focus:border-yellow w-full mb-1
 }
+
+.offer-hover {
+  @apply w-full border-0 border-b-2 absolute bottom-0 left-0 border-yellow scale-x-0 transition
+}

@@ -42,6 +42,23 @@
     },
     "btn": "Get a free consultation"
   },
+  "offers": {
+    "subTitle": "Innovative Solar Solutions",
+    "title": "OUR OFFERS",
+    "desc": "We offer high-quality products and services, and a 25-year warranty for solar systems.",
+    "card": {
+      "left": {
+        "title": "For business",
+        "desc": "Complex solutions in the solar energy sphere for businesses are a great way to save money on electric energy.",
+        "btn": "For business"
+      },
+      "right": {
+        "title": "For individuals",
+        "desc": "Switching to an alternative energy source ensures a stable power supply for your home and lowers your electricity costs.",
+        "btn": "For individuals"
+      }
+    }
+  },
   "navbar": {
     "busines": "For business",
     "special_persons": "For individuals",

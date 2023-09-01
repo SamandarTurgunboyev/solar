@@ -1,12 +1,14 @@
 import { serverSideTranslations } from 'next-i18next/serverSideTranslations'
 import { useTranslation } from 'next-i18next'
+import { Offers } from '@/components'
 
 const Home = () => {
   const { t } = useTranslation('common')
   return (
-    <main>
+    <div>
       <p>{t("hello")}</p>
-    </main>
+      <Offers />
+    </div>
   )
 }
 

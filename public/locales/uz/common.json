@@ -42,6 +42,23 @@
     },
     "btn": "Bepul maslahat oling"
   },
+  "offers": {
+    "subTitle": "Innovatsion quyosh yechimlari",
+    "title": "Biz nima taklif qilamiz",
+    "desc": "Biz yuqori sifatli mahsulotlar, sifatli xizmat va quyosh elektr stansiyalari uchun 25 yillik kafolatni taklif etamiz.",
+    "card": {
+      "left": {
+        "title": "Biznes uchun",
+        "desc": "Biznes uchun quyosh energiyasi sohasidagi integratsiyalashgan yechimlar elektr energiyasini tejashning ajoyib usuli bo'ladi",
+        "btn": "Biznes uchun"
+      },
+      "right": {
+        "title": "Xususiy shaxslar uchun",
+        "desc": "Muqobil energiyaga o'tish sizning uyingizga barqaror elektr ta'minotini kafolatlaydi va energiya xarajatlarini sezilarli darajada kamaytiradi",
+        "btn": "Xususiy shahslarga"
+      }
+    }
+  },
   "navbar": {
     "busines": "Biznes uchun",
     "special_persons": "Xususiy shaxslarga",

@@ -59,6 +59,12 @@
       }
     }
   },
+  "statistics": {
+    "settings": "Sozlamanlar",
+    "energy": "Energiya ishlab chiqarish",
+    "save": "Saqlash",
+    "client": "Mijozlar"
+  },
   "navbar": {
     "busines": "Biznes uchun",
     "special_persons": "Xususiy shaxslarga",

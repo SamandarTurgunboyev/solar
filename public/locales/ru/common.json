@@ -59,6 +59,12 @@
       }
     }
   },
+  "statistics": {
+    "settings": "УСТАНОВКИ",
+    "energy": "ВЫРАБОТКА ЭЛЕКТРОЭНЕРГИИ",
+    "save": "ЭКОНОМИЯ",
+    "client": "КЛИЕНТОВ"
+  },
   "navbar": {
     "busines": "Для бизнеса",
     "special_persons": "Частным лицам",

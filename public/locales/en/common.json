@@ -59,6 +59,12 @@
       }
     }
   },
+  "statistics": {
+    "settings": "INSTALLATION",
+    "energy": "POWER GENERATION",
+    "save": "SAVING",
+    "client": "CLIENTS"
+  },
   "navbar": {
     "busines": "For business",
     "special_persons": "For individuals",

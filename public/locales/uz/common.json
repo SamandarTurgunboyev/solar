@@ -73,5 +73,24 @@
     "blog": "Blog",
     "company": "Kompaniya haqida ma'lumot",
     "contact": "Kontaktlar"
+  },
+  "hero": {
+    "link_1": "Ko'proq",
+    "link_2": "Arizangizni Yuboring",
+    "page_1": {
+      "title": "Quyosh tomon bir qadam tashlang"
+    },
+    "page_2": {
+      "title": "Quyosh stansiyalari kalitlari"
+    },
+    "page_3": {
+      "title": "Uyingiz uchun tayyor echimlar"
+    },
+    "page_4": {
+      "title": "Quyosh stansiyalari kalitlari"
+    },
+    "page_5": {
+      "title": "O'ZBEKISTON QUYOTIDAN FOYDALANING"
+    }
   }
 }

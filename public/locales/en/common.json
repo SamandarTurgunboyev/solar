@@ -73,5 +73,24 @@
     "blog": "Blog",
     "company": "About company",
     "contact": "Contacts"
+  },
+  "hero": {
+    "link_1": "More",
+    "link_2": "Submit your application",
+    "page_1": {
+      "title": "Take a step towards the sun"
+    },
+    "page_2": {
+      "title": "Keys to solar stations"
+    },
+    "page_3": {
+      "title": "Ready solutions for your home"
+    },
+    "page_4": {
+      "title": "Keys to solar stations"
+    },
+    "page_5": {
+      "title": "TAKE ADVANTAGE OF UZBEKISTAN"
+    }
   }
 }

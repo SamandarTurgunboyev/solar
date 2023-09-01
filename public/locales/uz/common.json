@@ -93,6 +93,7 @@
       "title": "O'ZBEKISTON QUYOTIDAN FOYDALANING"
     }
   },
+<<<<<<< Updated upstream
   "warranty": {
     "subtitle": "Bizning Ustunligimiz",
     "title": "Kafolat",
@@ -103,5 +104,31 @@
   "production": {
     "subTitle": "Quyoshli kelajagingiz",
     "title": "Bizning Ishlab Chiqarish"
+=======
+  "site_about": {
+    "header": {
+      "title": "Kompaniya haqida",
+      "ul": {
+        "link": "Home",
+        "li": "Kompaniya haqida"
+      }
+    },
+    "section": {
+      "title": "KELAJAK HOZIR!",
+      "title_2": "Kompaniya haqida",
+      "text_1": "Solara 2019 yilda tashkil etilgan va La Solar Group quyosh panellarining rasmiy distribyutori hisoblanadi. Solara barcha turdagi quyosh elektr stantsiyalarini loyihalash, o'rnatish va texnik xizmat ko'rsatish bo'yicha barcha turdagi xizmatlarni taqdim etadi.",
+      "text_st": "Shuningdek, biz quyosh elektr stansiyalari uchun har xil turdagi uskunalarni tanlash va yetkazib berishni amalga oshiramiz.",
+      "text_2": "Biz har bir mijozga individual yondashuv, yuqori sifatli xizmat, moliyaviy yordam, barqarorlik va xizmat kafolatini taklif etamiz.",
+      "text_st_2": "Biz quyidagi sabablarga ko'ra La Solar Groupni yetkazib beruvchi sifatida tanladik:",
+      "ul": {
+        "li_1": "Bu Armanistondagi eng yirik Amerika quyosh panellari ishlab chiqaruvchilardan biri.",
+        "li_2": "Ishlab chiqarilgan fotovoltaik modullarning sifati va quvvati xalqaro sertifikatlar bilan tasdiqlangan.",
+        "li_3": "Ilmiy-texnika markazi faoliyati yuqori texnologiyali mahsulotlarni ishlab chiqish va joriy etishga qaratilgan.",
+        "li_4": "Sifat kafolati - 10 yil davomida quyosh batareyasi quvvati nominalning 90% dan kam bo'lmaydi va 25 yil ichida nominal quvvatning 80% dan kam bo'lmaydi."
+      },
+      "text_3": "La Solar Group bilan birgalikda biz mahsulotlarimizning eng yuqori sifatiga erishish uchun eng yangi texnologiyalarni ishlab chiqishga e'tibor qaratamiz.",
+      "text_4": "La Solar Group qurilish va dizayn uchun litsenziyaga ega"
+    }
+>>>>>>> Stashed changes
   }
 }

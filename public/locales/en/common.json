@@ -93,6 +93,7 @@
       "title": "TAKE ADVANTAGE OF UZBEKISTAN"
     }
   },
+<<<<<<< Updated upstream
   "warranty": {
     "subtitle": "Our Advantage",
     "title": "Warranty",
@@ -103,5 +104,31 @@
   "production": {
     "subTitle": "Your sunny future",
     "title": "Our Production"
+=======
+  "site_about": {
+    "header": {
+      "title": "About",
+      "ul": {
+        "link": "Home",
+        "li": "About"
+      }
+    },
+    "section": {
+      "title": "THE FUTURE IS NOW!",
+      "title_2": "About company",
+      "text_1": "Solara was founded in 2019 and is the official distributor of solar panels from La Solar Group. Solara provides all types of services for the design, installation and maintenance of solar power plants of all kinds.",
+      "text_st": "We also handle the selection and supply of various types of solar power plant equipment.",
+      "text_2": "We offer an individual approach to each client, high-quality service, financial support, stability, and service guarantee.",
+      "text_st_2": "We chose La Solar Group as our supplier for the following reasons:",
+      "ul": {
+        "li_1": "It is one of the largest American solar panel manufacturers in Armenia.",
+        "li_2": "The quality and power of the produced photovoltaic modules are confirmed by international certificates.",
+        "li_3": "The activities of the scientific and technical center, which is aimed at the development and implementation of high-tech products.",
+        "li_4": "Quality guarantee - for 10 years the solar battery power will not be less than 90% of the nominal, and within 25 years it will not be less than 80% of the nominal power."
+      },
+      "text_3": "Together with La Solar Group, we are focused on developing the latest technology to achieve the highest quality of our products.",
+      "text_4": "La Solar Group is licensed for construction and design"
+    }
+>>>>>>> Stashed changes
   }
 }

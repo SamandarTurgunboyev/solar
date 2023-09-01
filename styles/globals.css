@@ -130,3 +130,7 @@
 .stat-box {
   @apply w-full bg-[url('/images/about-bg.jpg')] py-8 z-10 relative before:content-[""] before:absolute before:top-0 before:left-0 before:bg-[#000]/[0.7] before:z-[-1] before:w-full before:h-full bg-cover
 }
+
+.site_ab {
+  @apply before:content-[""] before:absolute before:top-[5px] before:right-[-10px] before:bg-white before:w-[1px] before:h-[15px] before:rotate-[15deg]
+}

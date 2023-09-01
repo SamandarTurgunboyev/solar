@@ -93,7 +93,6 @@
       "title": "TAKE ADVANTAGE OF UZBEKISTAN"
     }
   },
-<<<<<<< Updated upstream
   "warranty": {
     "subtitle": "Our Advantage",
     "title": "Warranty",
@@ -104,7 +103,7 @@
   "production": {
     "subTitle": "Your sunny future",
     "title": "Our Production"
-=======
+  },
   "site_about": {
     "header": {
       "title": "About",
@@ -129,6 +128,5 @@
       "text_3": "Together with La Solar Group, we are focused on developing the latest technology to achieve the highest quality of our products.",
       "text_4": "La Solar Group is licensed for construction and design"
     }
->>>>>>> Stashed changes
   }
 }

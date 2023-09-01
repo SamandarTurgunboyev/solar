@@ -93,7 +93,6 @@
       "title": "O'ZBEKISTON QUYOTIDAN FOYDALANING"
     }
   },
-<<<<<<< Updated upstream
   "warranty": {
     "subtitle": "Bizning Ustunligimiz",
     "title": "Kafolat",
@@ -104,7 +103,7 @@
   "production": {
     "subTitle": "Quyoshli kelajagingiz",
     "title": "Bizning Ishlab Chiqarish"
-=======
+  },
   "site_about": {
     "header": {
       "title": "Kompaniya haqida",
@@ -129,6 +128,5 @@
       "text_3": "La Solar Group bilan birgalikda biz mahsulotlarimizning eng yuqori sifatiga erishish uchun eng yangi texnologiyalarni ishlab chiqishga e'tibor qaratamiz.",
       "text_4": "La Solar Group qurilish va dizayn uchun litsenziyaga ega"
     }
->>>>>>> Stashed changes
   }
 }

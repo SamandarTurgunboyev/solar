@@ -26,6 +26,22 @@
       "button": "Obuna bo'ling"
     }
   },
+  "application": {
+    "subTitle": "Arizangizni Yuboring",
+    "title": "Maslahat oling",
+    "desc": "Oddiy shaklni to'ldiring va bizning mutaxassislarimiz ish vaqtida siz bilan bog'lanadi",
+    "input": {
+      "name": "To'liq ism sharif",
+      "phone": "Telefon raqami",
+      "message": "Xabar"
+    },
+    "error": {
+      "name": "«To'liq ismi sharif» to`ldirish shart.",
+      "phone": "«Telefon raqami» to`ldirish shart.",
+      "message": ""
+    },
+    "btn": "Bepul maslahat oling"
+  },
   "navbar": {
     "busines": "Biznes uchun",
     "special_persons": "Xususiy shaxslarga",

@@ -3,8 +3,10 @@ import React from "react";
 import { FaTelegram } from "react-icons/fa";
 import { IoIosArrowRoundForward } from "react-icons/io";
 import { motion } from "framer-motion";
+import { useTranslation } from "next-i18next";
 
-const ModalButton = ({ open }) => {
+const ModalButton = ({ open, app, setApp }) => {
+  const { t } = useTranslation('common')
   return (
     <>
       {open ? (
@@ -22,8 +24,8 @@ const ModalButton = ({ open }) => {
             <Link href={"/"}>
               <FaTelegram className="text-3xl" />
             </Link>
-            <button className="button-hover flex flex-row items-center">
-              <p>Ariza yuborish</p>{" "}
+            <button className="button-hover flex flex-row items-center" onClick={() => setApp(!app)}>
+              <p>{t('application.subTitle')}</p>{" "}
               <IoIosArrowRoundForward className="text-2xl" />
             </button>
           </motion.div>

@@ -33,8 +33,8 @@ const ChangeLang = () => {
       </div>
       {open ? (
         <motion.div
-          initial={{ x: 50 }}
-          animate={{ x: 0 }}
+          initial={{ y: -50 }}
+          animate={{ y: 0 }}
           transition={{
             type: "spring",
             stiffness: 300,

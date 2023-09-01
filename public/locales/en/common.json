@@ -26,6 +26,22 @@
       "button": "Subscribe"
     }
   },
+  "application": {
+    "subTitle": "Submit Your Application",
+    "title": "Get a consultation",
+    "desc": "Fill out a simple form and our specialists will contact you during business hours",
+    "input": {
+      "name": "Full Name",
+      "phone": "Phone Number",
+      "message": "Message"
+    },
+    "error": {
+      "name": "Full Name cannot be blank.",
+      "phone": "Phone Number cannot be blank.",
+      "message": ""
+    },
+    "btn": "Get a free consultation"
+  },
   "navbar": {
     "busines": "For business",
     "special_persons": "For individuals",

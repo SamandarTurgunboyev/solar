@@ -8,3 +8,8 @@ export { default as Statistics } from "./Statistics"
 export { default as Warranty } from "./Warranty"
 export { default as Hero } from "./Hero"
 export { default as Production } from "./Production"
+
+export { default as InHero } from "./for_individuals/Hero"
+export { default as InReasons } from "./for_individuals/Reasons"
+export { default as InHelp } from "./for_individuals/Help"
+export { default as InFeatures } from "./for_individuals/Features"

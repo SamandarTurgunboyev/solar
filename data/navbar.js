@@ -7,7 +7,7 @@ export const navbarData = [
     {
         id: 2,
         title: 'navbar.special_persons',
-        link: '/'
+        link: '/site/for-individuals'
     },
     {
         id: 3,

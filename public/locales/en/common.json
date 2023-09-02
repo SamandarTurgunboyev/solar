@@ -128,5 +128,49 @@
       "text_3": "Together with La Solar Group, we are focused on developing the latest technology to achieve the highest quality of our products.",
       "text_4": "La Solar Group is licensed for construction and design"
     }
+  },
+  "forIndividuals": {
+    "pageTitle": "Solar Systems For Individuals | 25-Year Warranty",
+    "hero": {
+      "title": "Reliable source of energy for your home",
+      "desc": "Solar energy is an alternative source of energy supply guaranteeing a stable power supply to your home and a significant reduction in energy costs.",
+      "page": "For individuals"
+    },
+    "reasons": {
+      "subTitle": "For individuals",
+      "title": "Reasons to Use a Solar Power Station",
+      "info": {
+        "one": "The solar station is an environmentally friendly, economical, and reliable source of electricity for your home. The MYSUN company offers ready-made products for the private home, which allows you to significantly reduce the time to choose equipment.",
+        "two": "In the line of ready-made solutions from MYSUN, various variants of autonomous, autonomous hybrid, and network electrical equipment are presented. Trust the highly qualified MYSUN engineers to select the best kit for you. "
+      }
+    },
+    "help": {
+      "title": "The power plant will help",
+      "features": {
+        "one": "Solve the power problem",
+        "two": "Increase power input",
+        "three": "Eliminate interruptions or accidents on power lines",
+        "four": "Reduce energy costs"
+      },
+      "income": {
+        "title": "MYSUN INCOME METHODS",
+        "desc": "Usually, the energy that a solar station generates during the day is intended for the home's own consumption as a priority. In the event of no home consumption or excess power consumption, all unused solar electricity can be returned to the grid at the same tariff cost at which you buy solar energy from a utility company. If this volume exceeds this volume, the sale of electricity will be carried out at wholesale rates.",
+        "info": {
+          "one": "All this will allow the owner to reduce the cost of electricity consumed from the network, not only by using solar energy in the daytime but also by giving the excess electricity back to the network on favorable terms for him and even by earning some money.",
+          "two": "During the day, consumption is minimal, and the solar station operates at maximum capacity; you provide electricity to the network, and in the evening, you return the energy you received earlier."
+        }
+      }
+    },
+    "feature": {
+      "title": "Accommodation options",
+      "one": {
+        "title": "On the roof",
+        "desc": "The cost of electricity is constantly increasing. In conditions of rather fierce competition, in order to maintain business profits, enterprises must develop measures to reduce costs. Often, the load schedule for energy carriers at enterprises is uneven, the load peak is during the day, which allows solar power plants to be the most effective solution for most commercial activities. In addition, the use of solar power plants allows you to quickly and easily increase the input power of the facility or create a reliable reservation of the most important nodes that are unacceptable in operation. If the object is largely dependent on the central network, you can use an autonomous solar power plant on its own, as well as in combination with an alternative energy source."
+      },
+      "two": {
+        "title": "On the ground",
+        "desc": "The cost of electricity is constantly increasing. In conditions of rather fierce competition, in order to maintain business profits, enterprises must develop measures to reduce costs. Often, the load schedule for energy carriers at enterprises is uneven, the load peak is during the day, which allows solar power plants to be the most effective solution for most commercial activities. In addition, the use of solar power plants allows you to quickly and easily increase the input power of the facility or create a reliable reservation of the most important nodes that are unacceptable in operation. If the object is largely dependent on the central network, you can use an autonomous solar power plant on its own, as well as in combination with an alternative energy source."
+      }
+    }
   }
 }

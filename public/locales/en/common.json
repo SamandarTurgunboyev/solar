@@ -127,6 +127,21 @@
       },
       "text_3": "Together with La Solar Group, we are focused on developing the latest technology to achieve the highest quality of our products.",
       "text_4": "La Solar Group is licensed for construction and design"
+    }, 
+    "Cert": {
+      "title": "Certification",
+      "text": "about_certificate_text",
+      "button": "Download the certificate in PDF format"
+    },
+    "Area": {
+      "title_span": "Solar System Installation Company: Vision and Mission",
+      "title": "Vision and Mission",
+      "text": "By providing the finest and most innovative solutions for solar energy, we aim to contribute, promote and grow in the global renewable energy sector."
+    },
+    "Area_video": {
+      "title_span": "Solara with you",
+      "title": "Video",
+      "text": "SOLARA offers a wide range of services - from design to installation and operation of solar stations. The company also provides a huge selection of additional equipment related to premium solar panels."
     }
   },
   "forIndividuals": {

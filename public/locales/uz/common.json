@@ -127,6 +127,21 @@
       },
       "text_3": "La Solar Group bilan birgalikda biz mahsulotlarimizning eng yuqori sifatiga erishish uchun eng yangi texnologiyalarni ishlab chiqishga e'tibor qaratamiz.",
       "text_4": "La Solar Group qurilish va dizayn uchun litsenziyaga ega"
+    }, 
+    "Cert": {
+      "title": "Sertifikatlash",
+      "text": "Sertifikat_matn haqida",
+      "button": "Sertifikat PDF formatida yuklab olish"
+    },
+    "Area": {
+      "title_span": "Quyosh Tizimini O'rnatish: Afzalliklari va Vazifasi",
+      "title": "Bizning vazifamiz va afzalliklarimiz",
+      "text": "Quyosh energiyasi uchun eng yaxshi va innovatsion echimlarni taqdim etish orqali biz qayta tiklanadigan energiya sohasiga hissa qo'shish, targ'ib qilish va rivojlanishni maqsad qilganmiz."
+    },
+    "Area_video": {
+      "title_span": "SOLARA siz bilan",
+      "title": "Video",
+      "text": "SOLARA keng turdagi xizmatlarni taklif etadi - loyihalashdan tortib quyosh stansiyalarini o'rnatish va ishlatishgacha. Kompaniya shuningdek, yuqori sifatli quyosh panellari bilan bog'liq qo'shimcha uskunalarning katta tanlovini taqdim etadi."
     }
   },
   "forIndividuals": {

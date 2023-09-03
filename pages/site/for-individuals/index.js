@@ -1,6 +1,6 @@
 import React from 'react'
 import Head from 'next/head'
-import { InFeatures, InHelp, InHero, InReasons } from '@/components'
+import { InContact, InFeatures, InHelp, InHero, InReasons } from '@/components'
 import { serverSideTranslations } from 'next-i18next/serverSideTranslations'
 import { useTranslation } from 'next-i18next'
 
@@ -15,6 +15,7 @@ const Individuals = () => {
       <InReasons />
       <InHelp />
       <InFeatures />
+      <InContact />
     </div>
   )
 }

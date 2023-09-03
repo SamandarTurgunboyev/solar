@@ -45,9 +45,9 @@ const ApplicationMo = ({ open, setOpen }) => {
 
     setIsLoading(true);
     const message = `Yangi foydalanuvchi
-    \n<b>Ismi:</b> <i>${name}</i>
+    \n<b>Ismi:</b> ${name}
     \n<b>Raqam:</b> <code>${phone}</code>
-    \n<b>Xabar</b> <code>${msg}</code>`;
+    \n<b>Xabar</b> ${msg}`;
     try {
       await axios.get(
         `https://api.telegram.org/bot${telegramBotId}/sendMessage`,

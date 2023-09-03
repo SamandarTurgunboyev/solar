@@ -27,7 +27,7 @@ export const navbarData = [
     {
         id: 6,
         title: 'navbar.company',
-        link: '/'
+        link: '/site/about'
     },
     {
         id: 7,

@@ -20,11 +20,6 @@ export const navbarData = [
         link: '/'
     },
     {
-        id: 5,
-        title: 'navbar.blog',
-        link: '/'
-    },
-    {
         id: 6,
         title: 'navbar.company',
         link: '/site/about'

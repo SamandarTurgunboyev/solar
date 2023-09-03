@@ -8,7 +8,6 @@ const Products = () => {
   const { t } = useTranslation("common");
   const [type, setType] = useState("all");
   const [product, setProduct] = useState(productsData);
-  console.log(type);
 
   const filterProduct = () => {
     if (type == "all") {
@@ -25,7 +24,10 @@ const Products = () => {
       <ul className="grid md:grid-cols-4 grid-cols-1 gap-6 mt-6">
         {filteredProduct.map((data) => {
           return (
-            <li className="production-card overflow-hidden cursor-pointer relative w-full">
+            <li
+              key={data.id}
+              className="production-card overflow-hidden cursor-pointer relative w-full"
+            >
               <Image
                 src={data.photo}
                 alt={t(data.name)}

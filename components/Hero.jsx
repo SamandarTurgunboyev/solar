@@ -13,6 +13,7 @@ const Hero = () => {
     dots: false,
     infinite: true,
     slidesToShow: 1,
+    pauseOnHover: false,
     slidesToScroll: 1,
     autoplay: true,
     speed: 900,

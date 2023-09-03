@@ -19,6 +19,7 @@ const Individuals = () => {
     </div>
   )
 }
+
 export async function getStaticProps({ locale }) {
   return {
     props: {

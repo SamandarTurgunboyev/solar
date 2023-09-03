@@ -206,5 +206,11 @@
         "inverter": "Inverter"
       }
     }
+  },
+  "custom404": {
+    "pageTitle": "404: Sahifa topilmadi!",
+    "title": "Ehh, Sahifa topilmadi!",
+    "info": "Siz qidirgan sahifani topib bo'lmadi.",
+    "back": "Asosiy sahifaga qaytish"
   }
 }

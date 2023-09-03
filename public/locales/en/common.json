@@ -206,5 +206,11 @@
         "inverter": "Inverter"
       }
     }
+  },
+  "custom404": {
+    "pageTitle": "404: Page not found!",
+    "title": "Oops, Page not found!",
+    "info": "Page not found",
+    "back": "Back to main page"
   }
 }

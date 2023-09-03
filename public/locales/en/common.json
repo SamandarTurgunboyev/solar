@@ -187,5 +187,24 @@
         "desc": "The cost of electricity is constantly increasing. In conditions of rather fierce competition, in order to maintain business profits, enterprises must develop measures to reduce costs. Often, the load schedule for energy carriers at enterprises is uneven, the load peak is during the day, which allows solar power plants to be the most effective solution for most commercial activities. In addition, the use of solar power plants allows you to quickly and easily increase the input power of the facility or create a reliable reservation of the most important nodes that are unacceptable in operation. If the object is largely dependent on the central network, you can use an autonomous solar power plant on its own, as well as in combination with an alternative energy source."
       }
     }
+  },
+  "products": {
+    "pageTitle": "Solar Panels & Solar System: Efficient Energy Solutions",
+    "hero": {
+      "title": "Products",
+      "page": "Products"
+    },
+    "products": {
+      "types": {
+        "all": "All Products",
+        "sun": "Solar Panels",
+        "inventor": "Inverters"
+      },
+      "product": {
+        "station": "Sun Station",
+        "panel": "Sun Panel",
+        "inverter": "Inverter"
+      }
+    }
   }
 }

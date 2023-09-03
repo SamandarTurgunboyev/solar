@@ -187,5 +187,24 @@
         "desc": "Elektr narxi doimiy ravishda oshib bormoqda. Juda qattiq raqobat sharoitida, biznesning rentabelligini saqlab qolish uchun korxonalar xarajatlarni kamaytirish choralarini ishlab chiqishga majbur bo'lmoqdalar - korxonalarda energiya samaradorligi dasturlari hamma joyda joriy etilmoqda, nafaqat resurslarni tejashga, balki tejamkor ishlab chiqarish tamoyillaridan foydalanilmoqda. atrof-muhitga salbiy ta'sirni kamaytirishda. Ko'pincha korxonalarda elektr tarmog'idagi yuklanish jadvali bir xil emas, iste'molning eng yuqori nuqtasi kunduzi sodir bo'ladi, bu esa quyosh elektr stantsiyalarini ko'pchilik tijorat ob'ektlari uchun eng samarali echimga aylantiradi. Bundan tashqari, quyosh elektr stantsiyasidan foydalanish ob'ektdagi kirish quvvatini tez va oson oshirish yoki muhim tugunlarning ishonchli zaxirasini yaratish imkonini beradi, ularning ishdan chiqishi qabul qilinishi mumkin emas. Agar ob'ekt markazlashtirilgan tarmoqdan ancha uzoqda joylashgan bo'lsa, u holda avtonom quyosh elektr stantsiyalaridan mustaqil ravishda ham, muqobil ishlab chiqarish manbalari bilan birgalikda foydalanish mumkin."
       }
     }
+  },
+  "products": {
+    "pageTitle": "Quyosh Panellari va Quyosh Tizimi: Quyosh Yechimlari",
+    "hero": {
+      "title": "Mahsulotlar",
+      "page": "Mahsulotlar"
+    },
+    "products": {
+      "types": {
+        "all": "Barcha mahsulotlar",
+        "sun": "Quyosh panellari",
+        "inventor": "Inventorlar"
+      },
+      "product": {
+        "station": "Quyosh batareyasi",
+        "panel": "Quyosh paneli",
+        "inverter": "Inverter"
+      }
+    }
   }
 }

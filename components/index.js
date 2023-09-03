@@ -14,3 +14,6 @@ export { default as InReasons } from "./for_individuals/Reasons"
 export { default as InHelp } from "./for_individuals/Help"
 export { default as InFeatures } from "./for_individuals/Features"
 export { default as InContact } from "./for_individuals/Contact"
+
+export { default as PrHero } from "./products/Hero"
+export { default as PrProducts } from "./products/Products"

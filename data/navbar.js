@@ -12,7 +12,7 @@ export const navbarData = [
     {
         id: 3,
         title: 'navbar.product',
-        link: '/'
+        link: '/site/products'
     },
     {
         id: 4,

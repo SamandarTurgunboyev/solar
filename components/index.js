@@ -17,3 +17,6 @@ export { default as InContact } from "./for_individuals/Contact"
 
 export { default as PrHero } from "./products/Hero"
 export { default as PrProducts } from "./products/Products"
+
+export { default as PjHero } from "./projects/Hero"
+export { default as PjProjects } from "./projects/Projects"

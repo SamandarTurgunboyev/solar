@@ -26,7 +26,7 @@ const Navbar = () => {
         <ul className="xl:flex hidden flex-row gap-8 font-tahomaRegular">
           {navbarData.map((data) => {
             return (
-              <li key={data.id} className="text-[14px]">
+              <li key={data.id} className="text-[16px]">
                 <Link href={data.link} className="triangle-hover relative">
                   {t(data.title)}
                 </Link>

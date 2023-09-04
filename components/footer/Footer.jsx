@@ -30,7 +30,7 @@ const Footer = () => {
             <li className="flex gap-[15px]">
               {" "}
               <CgMail className="text-yellow text-2xl" />
-              info@solara.uz
+              info@mysun.uz
             </li>
           </ul>
         </div>
@@ -63,42 +63,22 @@ const Footer = () => {
           <ul className="flex flex-col gap-[20px]">
             <li className="font-bold text-2xl">{t("footer.links.title")}</li>
             <li>
-              <a href="/" className="footer_hov">
+              <a href="/site/about" className="footer_hov">
                 {t("footer.links.info")}
               </a>
             </li>
             <li>
-              <a href="/" className="footer_hov">
-                {t("footer.links.blog")}
-              </a>
-            </li>
-            <li>
-              <a href="/" className="footer_hov">
+              <a href="/site/products" className="footer_hov">
                 {t("footer.links.product")}
               </a>
             </li>
             <li>
-              <a href="/" className="footer_hov">
+              <a href="/site/for-individuals" className="footer_hov">
                 {t("footer.links.private")}
               </a>
             </li>
             <li>
-              <a href="/" className="footer_hov">
-                {t("footer.links.business")}
-              </a>
-            </li>
-            <li>
-              <a href="/" className="footer_hov">
-                {t("footer.links.policy")}
-              </a>
-            </li>
-            <li>
-              <a href="/" className="footer_hov">
-                {t("footer.links.conditions")}
-              </a>
-            </li>
-            <li>
-              <a href="/" className="footer_hov">
+              <a href="/site/contact" className="footer_hov">
                 {t("footer.links.contact")}
               </a>
             </li>

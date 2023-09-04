@@ -207,6 +207,20 @@
       }
     }
   },
+  "projects": {
+    "pageTitle": "Our Solar Projects",
+    "hero": {
+      "title": "Projects",
+      "page": "Projects"
+    },
+    "projects": {
+      "types": {
+        "all": "All",
+        "commercial": "Comercial",
+        "foreign": "Foreign"
+      }
+    }
+  },
   "custom404": {
     "pageTitle": "404: Page not found!",
     "title": "Oops, Page not found!",
@@ -245,5 +259,7 @@
         "title": "Office in Yerevan"
       }
     }
-  }
+  },
+  "aboutPage": "Know More About Your Solar Provider",
+  "indexPage": "Solar Panel Installation: Expert Solutions"
 }

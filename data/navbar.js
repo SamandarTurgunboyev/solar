@@ -17,7 +17,7 @@ export const navbarData = [
     {
         id: 4,
         title: 'navbar.projects',
-        link: '/'
+        link: '/site/projects'
     },
     {
         id: 6,

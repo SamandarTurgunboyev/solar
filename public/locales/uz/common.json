@@ -1,5 +1,4 @@
 {
-  "hello": "Salom",
   "footer": {
     "project": {
       "title": "Loyihalar",
@@ -207,6 +206,20 @@
       }
     }
   },
+  "projects": {
+    "pageTitle": "Bizning Quyosh Loyihalarimiz",
+    "hero": {
+      "title": "Loyihalar",
+      "page": "Loyihalar"
+    },
+    "projects": {
+      "types": {
+        "all": "Barcha mahsulotlar",
+        "commercial": "Tijoriy",
+        "foreign": "Xorijiy"
+      }
+    }
+  },
   "custom404": {
     "pageTitle": "404: Sahifa topilmadi!",
     "title": "Ehh, Sahifa topilmadi!",
@@ -245,5 +258,7 @@
         "title": "Yerevandagi ofis"
       }
     }
-  }
+  },
+  "aboutPage": "Quyosh Provayderi Haqida",
+  "indexPage": "Quyosh Panellarini O'rnatish: Ekspert Echimlari"
 }

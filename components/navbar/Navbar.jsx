@@ -19,7 +19,7 @@ const Navbar = () => {
   const [appOpen, setAppOpen] = useState(false);
   return (
     <>
-      <nav className="custom-container text-white flex flex-row items-center justify-between bg-blue py-6 relative">
+      <nav className="custom-container text-blue flex flex-row items-center justify-between bg-white py-6 relative">
         <Link href={"/"}>
           <Image src={"/images/logo.png"} width={100} height={100} alt="logo" />
         </Link>
@@ -37,10 +37,10 @@ const Navbar = () => {
         <div className="flex flex-row items-center">
           <ul className="md:flex hidden flex-row items-center gap-6">
             <Link href={"/"}>
-              <FaTelegram className="text-3xl" />
+              <FaTelegram className="text-3xl text-yellow" />
             </Link>
             <button
-              className="button-hover flex flex-row items-center"
+              className="button-hover flex flex-row items-center text-white"
               onClick={() => setAppOpen(!appOpen)}
             >
               <p>{t('application.subTitle')}</p>{" "}

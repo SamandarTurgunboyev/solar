@@ -27,6 +27,6 @@ export const navbarData = [
     {
         id: 7,
         title: 'navbar.contact',
-        link: '/'
+        link: '/site/contact'
     },
 ]

@@ -127,7 +127,7 @@
       },
       "text_3": "Together with La Solar Group, we are focused on developing the latest technology to achieve the highest quality of our products.",
       "text_4": "La Solar Group is licensed for construction and design"
-    }, 
+    },
     "Cert": {
       "title": "Certification",
       "text": "about_certificate_text",
@@ -212,5 +212,38 @@
     "title": "Oops, Page not found!",
     "info": "Page not found",
     "back": "Back to main page"
+  },
+  "site_contact": {
+    "pageTitle": "Contact Us & Our Specialists Will Help You | Solara",
+    "link": "Home",
+    "header": {
+      "title": "Contacts",
+      "text": "A sales consultant will be in touch with you as soon as we’ve received your information and you've had your initial consultation.",
+      "input": {
+        "mail": "Email",
+        "mail_text": "Email cannot be blank.",
+        "button": "Send"
+      }
+    },
+    "office": {
+      "title": "Office in Uzbekistan",
+      "addres": "Tashkent, Mirabad district, Fargana Yuli 222/12",
+      "phone": "Phone",
+      "internet": "Viber/Watsapp",
+      "mail": "Email"
+    },
+    "info": {
+      "phone": "Phone",
+      "mail": "Email",
+      "series_1": {
+        "title": "For the press"
+      },
+      "series_2": {
+        "title": "For investors"
+      },
+      "series_3": {
+        "title": "Office in Yerevan"
+      }
+    }
   }
 }

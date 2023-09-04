@@ -127,7 +127,7 @@
       },
       "text_3": "La Solar Group bilan birgalikda biz mahsulotlarimizning eng yuqori sifatiga erishish uchun eng yangi texnologiyalarni ishlab chiqishga e'tibor qaratamiz.",
       "text_4": "La Solar Group qurilish va dizayn uchun litsenziyaga ega"
-    }, 
+    },
     "Cert": {
       "title": "Sertifikatlash",
       "text": "Sertifikat_matn haqida",
@@ -212,5 +212,38 @@
     "title": "Ehh, Sahifa topilmadi!",
     "info": "Siz qidirgan sahifani topib bo'lmadi.",
     "back": "Asosiy sahifaga qaytish"
+  },
+  "site_contact": {
+    "pageTitle": "Biz bilan bog'laning va biz sizga yordam beramiz | Solara",
+    "link": "Home",
+    "header": {
+      "title": "Kontaktlar",
+      "text": "Savdo bo'yicha maslahatchi ma'lumotingizni olganimizdan so'ng siz bilan bog'lanadi va siz dastlabki maslahatga ega bo'lasiz.",
+      "input": {
+        "mail": "Elektron pochta",
+        "mail_text": "«Elektron pochta» to`ldirish shart.",
+        "button": "Yuborish"
+      }
+    },
+    "office": {
+      "title": "O'zbekistondagi ofis",
+      "addres": "Toshkent sh., Mirobod tumani, Fag‘on yo‘li 222/12",
+      "phone": "Telefon",
+      "internet": "Viber/Watsapp",
+      "mail": "Elektron pochta"
+    },
+    "info": {
+      "phone": "Telefon",
+      "mail": "Elektron pochta",
+      "series_1": {
+        "title": "Matbuot uchun"
+      },
+      "series_2": {
+        "title": "Investorlar uchun"
+      },
+      "series_3": {
+        "title": "Yerevandagi ofis"
+      }
+    }
   }
 }

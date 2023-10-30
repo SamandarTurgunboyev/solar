@@ -2,6 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
+/* font family */
 @font-face {
   font-family: "barlow-black";
   src: url("/fonts/Barlow-Black.ttf") format("truetype");
